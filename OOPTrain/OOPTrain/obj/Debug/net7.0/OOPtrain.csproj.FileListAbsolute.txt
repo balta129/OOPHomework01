@@ -1,0 +1,14 @@
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.AssemblyInfoInputs.cache
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.AssemblyInfo.cs
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.csproj.CoreCompileInputs.cache
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\bin\Debug\net7.0\OOPtrain.exe
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\bin\Debug\net7.0\OOPtrain.deps.json
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\bin\Debug\net7.0\OOPtrain.runtimeconfig.json
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\bin\Debug\net7.0\OOPtrain.dll
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\bin\Debug\net7.0\OOPtrain.pdb
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.dll
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\refint\OOPtrain.dll
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.pdb
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\OOPtrain.genruntimeconfig.cache
+C:\Users\Selo\Desktop\OOPTrain\OOPTrain\obj\Debug\net7.0\ref\OOPtrain.dll
